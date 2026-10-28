@@ -35,4 +35,6 @@ python3 -m venv venv
 source venv/bin/activate
 pip install -r requirements.txt
 python3 app.py
+```
+
 Open http://<raspberry-pi-ip>:5000 in your browser.
